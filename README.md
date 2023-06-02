@@ -8,8 +8,8 @@ With the project, it is aimed to estimate salary according to title-position-sen
 # Story of Dataset
 Annual Salaries in data based job positions between 2020-2022 11 variables; 6 categorical, 2 numerical 607 rows
 
-work_year: the year the salary is paid 
-experience_level: experience level 
+- work_year: the year the salary is paid 
+- experience_level: experience level 
 employment_type: type of employment 
 job_title: the role studied
 salary: total gross salary amount. 
