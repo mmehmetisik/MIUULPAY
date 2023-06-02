@@ -10,12 +10,12 @@ Annual Salaries in data based job positions between 2020-2022 11 variables; 6 ca
 
 - work_year: the year the salary is paid 
 - experience_level: experience level 
--employment_type: type of employment 
--job_title: the role studied
--salary: total gross salary amount. 
--salary_currency: the currency of the salary paid. 
--salary_In_usd: Salary in USD 
--staff_residence: country of residence of the employee. 
--remote_ratio: total amount of work done remotely 
--company_location: Country of employer 
--company_size: size by average number of employees
+- employment_type: type of employment 
+- job_title: the role studied
+- salary: total gross salary amount. 
+- salary_currency: the currency of the salary paid. 
+- salary_In_usd: Salary in USD 
+- staff_residence: country of residence of the employee. 
+- remote_ratio: total amount of work done remotely 
+- company_location: Country of employer 
+- company_size: size by average number of employees
